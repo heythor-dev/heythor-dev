@@ -38,4 +38,4 @@ Desenvolvido em parceria com colegas de faculdade, o Lumind é um sistema voltad
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/heitor-gonçalves-7007213bb?utm_source=share_via&utm_content=profile&utm_medium=member_android])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/heitor-gonçalves-7007213bb])
