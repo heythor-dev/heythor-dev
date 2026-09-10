@@ -1,4 +1,4 @@
-markdown_content = """# Olá a todos! Me chamo Heitor 👋
+# Olá a todos! Me chamo Heitor 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou estudante de **Engenharia de Software (4º período)** na região de Curitiba, na PUCPR, e estou constantemente em busca de aperfeiçoar minhas habilidades como desenvolvedor.
 
@@ -39,9 +39,3 @@ Desenvolvido em parceria com colegas de faculdade, o Lumind é um sistema voltad
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/heitor-gonçalves-7007213bb?utm_source=share_via&utm_content=profile&utm_medium=member_android])
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print("File generated successfully.")
