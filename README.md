@@ -1,13 +1,13 @@
 # Olá a todos! Me chamo Heitor 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou estudante de **Engenharia de Software (4º período)** na região de Curitiba, na PUCPR, e estou constantemente em busca de aperfeiçoar minhas habilidades como desenvolvedor.
+Bem-vindo ao meu perfil no GitHub! Sou estudante de Engenharia de Software (4º período) na região de Curitiba, na PUCPR, e estou constantemente em busca de aperfeiçoar minhas habilidades como desenvolvedor.
 
 ## 🚀 Sobre mim
 
 - 🔭 **Status atual:** Cursando o 4º período de Engenharia de Software.
-- 🌱 **O que estou aprendendo:** Atualmente, meu foco intenso está em **Estruturas de Dados** (Pilhas, Filas, Listas, Listas Encadeadas, etc.).
+- 🌱 **O que estou aprendendo:** Atualmente, meu foco intenso está em Estruturas de Dados (Pilhas, Filas, Listas, Listas Encadeadas, etc.).
 - 💡 **Conhecimento em destaque:** Tenho bastante domínio sobre e estudo continuamente **Diagramação UML**.
-- 🤝 **Aberto a colaborações:** Como estudante, considero toda experiência válida para o meu crescimento. Tenho um interesse especial em colaborar com projetos voltados para o **Desenvolvimento de Software** e de **Impacto Social**.
+- 🤝 **Aberto a colaborações:** Como estudante, considero toda experiência válida para o meu crescimento. Tenho um interesse especial em colaborar com projetos voltados para o Desenvolvimento de Software e de Impacto Social.
 
 ## 💻 Tecnologias e Ferramentas
 
